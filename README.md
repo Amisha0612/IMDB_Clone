@@ -1,3 +1,6 @@
+This project replicates some functionalities of the IMDb website, allowing users to browse and search for movies, view details, and access various movie-related information. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
